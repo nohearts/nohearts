@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:0ea5e9,100:ef4444&text=nohearts&fontColor=ffffff&fontSize=76&fontAlignY=38&desc=reading%20the%20code%20explains%20the%20code&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=2200&color=38BDF8&center=true&vCenter=true&width=820&lines=rolling+for+initiative,+but+with+commits;min-maxing+side+projects+and+mate;deckbuilding,+debugging,+and+good+UI;player+two+in+code,+games,+and+weird+ideas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=2200&color=38BDF8&center=true&vCenter=true&width=820&lines=fine-tuning+my+build+in+the+gym;rolling+for+initiative,+but+with+commits;min-maxing+side+projects+and+yerba+mate;deckbuilding,+debugging,+and+good+UI)](https://git.io/typing-svg)
 
 </div>
 
