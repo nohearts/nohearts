@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:0ea5e9,100:22c55e&text=nohearts&fontColor=ffffff&fontSize=76&fontAlignY=38&desc=building%20small,%20sharp,%20useful%20things&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:0ea5e9,100:ef4444&text=nohearts&fontColor=ffffff&fontSize=76&fontAlignY=38&desc=reading%20the%20code%20explains%20the%20code&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=2200&color=38BDF8&center=true&vCenter=true&width=820&lines=rolling+for+initiative,+but+with+commits;min-maxing+side+projects+and+mate;deckbuilding,+debugging,+and+good+UI;player+two+in+code,+games,+and+weird+ideas)](https://git.io/typing-svg)
 
@@ -41,6 +41,6 @@ motto        reading the card explains the card - applicable to everything in li
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,55:0ea5e9,100:0f172a)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ef4444,55:0ea5e9,100:0f172a)
 
 </div>
