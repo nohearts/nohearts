@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:0ea5e9,100:22c55e&text=nohearts&fontColor=ffffff&fontSize=76&fontAlignY=38&desc=building%20small,%20sharp,%20useful%20things&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=2200&color=38BDF8&center=true&vCenter=true&width=820&lines=rolling+for+initiative,+but+with+commits;min-maxing+side+projects+and+coffee;deckbuilding,+debugging,+and+good+UI;player+two+in+code,+games,+and+weird+ideas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=2200&color=38BDF8&center=true&vCenter=true&width=820&lines=rolling+for+initiative,+but+with+commits;min-maxing+side+projects+and+mate;deckbuilding,+debugging,+and+good+UI;player+two+in+code,+games,+and+weird+ideas)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,10 +11,10 @@
 I use this space as a small campfire for what I am building, learning, and currently obsessing over.
 
 ```txt
-focus        useful web things, playful systems, and interfaces with good game feel
-building     projects that make everyday work smoother or a little more fun
-playing      video games, board games, deckbuilders, strategy, and co-op chaos
-values       clarity, curiosity, good taste, and code that feels calm to revisit
+focus        tabletop and boardgaming sphere
+building     useful tools for my board and tabletop games!
+playing      a whole lot of Arcs and Riftbound
+motto       reading the card explains the card - applicable to everything in life
 ```
 
 ## Working With
