@@ -8,7 +8,7 @@
 
 ## Now
 
-I use this space as a small campfire for what I am building, learning, and currently obsessing over.
+I use this space as a small bonfire for what I am currently doing (and maybe also working on but idk)
 
 ```txt
 focus        tabletop and boardgaming sphere
