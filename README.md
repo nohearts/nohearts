@@ -6,15 +6,6 @@
 
 </div>
 
-## Now
-
-I use this space as a small bonfire for what I am currently doing (and maybe also working on but idk)
-
-```txt
-focus        tabletop and boardgaming sphere
-building     useful tools for my board and tabletop games!
-playing      a whole lot of Arcs and Riftbound
-motto        reading the card explains the card - applicable to everything in life!
 ```
 
 ## Working With
