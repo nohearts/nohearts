@@ -6,8 +6,6 @@
 
 </div>
 
-```
-
 ## Working With
 
 <div align="center">
