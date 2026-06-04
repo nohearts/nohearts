@@ -2,9 +2,17 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,45:0ea5e9,100:ef4444&text=nohearts&fontColor=ffffff&fontSize=76&fontAlignY=38&desc=reading%20the%20code%20explains%20the%20code&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=2200&color=38BDF8&center=true&vCenter=true&width=820&lines=caring+about+the+future+of+IT;working+on+several+apps;ideas+do+not+grow+on+trees,+they+grow+in+our+minds+#thisisdeep)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3600&pause=2200&color=38BDF8&center=true&vCenter=true&width=820&lines=working+on+small+apps+and+game+tools;usually+somewhere+between+code+and+board+games;reading+the+code+explains+the+code)](https://git.io/typing-svg)
 
 </div>
+
+## About
+
+I build things when I want them to exist.
+
+Mostly small apps, tools around games I play, and whatever idea keeps coming back after I ignore it for a while.
+
+I care about readable code, useful interfaces, and not making things more complicated than they need to be.
 
 ## Working With
 
